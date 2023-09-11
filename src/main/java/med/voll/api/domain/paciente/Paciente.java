@@ -52,7 +52,6 @@ public class Paciente {
         }
 
     }
-
     public void eliminar() {
         this.activo = false;
     }
